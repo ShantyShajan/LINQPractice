@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{B254E184-39D3-48E8-A262-3770AC332283}|Default">
+  <MonoDevelop.Ide.ItemProperties.LinqPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinqPractice/Solution/Cast.cs">
+    <Files>
+      <File FileName="LinqPractice/Program.cs" />
+      <File FileName="LinqPractice/Solution/BasicLinqEvenNum.cs" />
+      <File FileName="LinqPractice/Solution/ReadInput.cs" />
+      <File FileName="LinqPractice/Solution/All.cs" />
+      <File FileName="LinqPractice/Solution/Any.cs" />
+      <File FileName="LinqPractice/Solution/Append.cs" />
+      <File FileName="LinqPractice/Solution/Average.cs" />
+      <File FileName="LinqPractice/Solution/Cast.cs" Line="5" Column="32" />
+      <File FileName="LinqPractice/Solution/chunk.cs" />
+      <File FileName="LinqPractice/Solution/ElementAt.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinqPractice" expanded="True">
+            <Node name="LinqPractice" expanded="True">
+              <Node name="Solution" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
